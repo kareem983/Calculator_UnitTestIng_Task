@@ -1,5 +1,5 @@
 # Calculator_UnitTestIng_Task
-This is Automated Unit Tests For Calculator Class Using JUint Tool
+This is Automated Unit Tests For Calculator Class Using JUint Tool 
 
 Examples From Tests:
 
